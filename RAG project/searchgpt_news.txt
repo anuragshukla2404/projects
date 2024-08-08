@@ -1,0 +1,23 @@
+A new way to search
+
+Getting answers on the web can take a lot of effort, often requiring multiple attempts to get relevant results. We believe that by enhancing the conversational capabilities of our models with real-time information from the web, finding what you’re looking for can be faster and easier. 
+
+Designed to give you an answer
+
+SearchGPT will quickly and directly respond to your questions with up-to-date information from the web while giving you clear links to relevant sources. 
+
+You’ll be able to ask follow-up questions, like you would in a conversation with a person, with the shared context building with each query. 
+
+Partnering with publishers and creators
+
+We are committed to a thriving ecosystem of publishers and creators. We hope to help users discover publisher sites and experiences, while bringing more choice to search. For decades, search has been a foundational way for publishers and creators to reach users. Now, we’re using AI to enhance this experience by highlighting high quality content in a conversational interface with multiple opportunities for users to engage.
+
+SearchGPT is designed to help users connect with publishers by prominently citing and linking to them in searches. Responses have clear, in-line, named attribution and links so users know where information is coming from and can quickly engage with even more results in a sidebar with source links.
+
+We’ve partnered with publishers to build this experience and continue to seek their feedback. In addition to launching the SearchGPT prototype, we are also launching a way for publishers to manage how they appear in SearchGPT, so publishers have more choices. Importantly, SearchGPT is about search and is separate from training OpenAI’s generative AI foundation models. Sites can be surfaced in search results even if they opt out of generative AI training. To read more about publisher controls and OpenAI’s bots, see here(opens in a new window). 
+
+We’ve also heard from publishers and creators that they want to understand how best to engage with AI search products and how their content performs. We’ll use this prototype to learn more and share findings. If you’d like to share feedback, please email us at publishers-feedback@openai.com.
+
+What comes next
+
+We’ll keep improving the experience in areas like local information and commerce. We also plan to get feedback on the prototype from users and publishers and bring the best of the experience into ChatGPT. If you're interested in trying SearchGPT, sign up(opens in a new window) for the waitlist.
